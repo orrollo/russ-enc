@@ -7,3 +7,9 @@ for output code producing. As output - one or more variants (in different progra
 of code page determining functions.
 
 2014.03.06 - unfinished, v0.1
+
+2014.03.25 - unfinished, v0.2
+    + fixed php template, created php output prototype
+    + added php test example
+    
+    

@@ -72,5 +72,6 @@ function genByTpl($fileName,$cross,$stat) {
 
 // generating output
 file_put_contents('./out/russenc.inc.php',genByTpl('./tpl/php.inc',$cross,$stat));
+//file_put_contents('./out/russenc.cs',genByTpl('./tpl/cs.inc',$cross,$stat));
 
 ?>
